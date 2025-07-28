@@ -19,13 +19,13 @@ Conway's game of life implemented using C++ and raylib library.
       ```
    **Examples**
    
-   For VS 2022
+- For VS 2022
       ```sh
    mkdir build
    cd build
    cmake -G "Visual Studio 17 2022" ..
       ```
-   For MinGW
+- For MinGW
       ```sh
    mkdir build
    cd build
