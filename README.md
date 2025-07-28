@@ -18,6 +18,7 @@ Conway's game of life implemented using C++ and raylib library.
    cmake ..
       ```
    **Examples**
+   
    For VS 2022
       ```sh
    mkdir build
