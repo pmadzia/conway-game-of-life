@@ -12,24 +12,24 @@ Conway's game of life implemented using C++ and raylib library.
    cd conway-game-of-life
       ```
 3. **Build using Cmake**
-   ```sh
+      ```sh
    mkdir build
    cd build
    cmake ..
-   ```
-**Examples**
-For VS 2022
-```sh
+      ```
+   **Examples**
+   For VS 2022
+      ```sh
    mkdir build
    cd build
    cmake -G "Visual Studio 17 2022" ..
-   ```
-For MinGW
-```sh
+      ```
+   For MinGW
+      ```sh
    mkdir build
    cd build
    cmake -G "MinGW Makefiles" ..
-   ```
+      ```
 ## Controls
 - Spacebar - Pause the game
 - G - toggle on/off grid
